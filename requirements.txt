@@ -4,3 +4,4 @@ pymongo
 python-dotenv
 huggingface_hub
 sentence-transformers
+python-multipart
